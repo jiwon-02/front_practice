@@ -2,6 +2,7 @@
 //   return <div>📄 글 목록 페이지</div>;
 // }
 // export default CommunityList;
+
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 
